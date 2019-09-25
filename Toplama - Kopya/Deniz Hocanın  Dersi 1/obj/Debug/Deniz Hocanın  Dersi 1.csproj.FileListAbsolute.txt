@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\bin\Debug\Deniz Hocanın  Dersi 1.exe.config
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\bin\Debug\Deniz Hocanın  Dersi 1.exe
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\bin\Debug\Deniz Hocanın  Dersi 1.pdb
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\obj\Debug\Deniz Hocanın  Dersi 1.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\obj\Debug\Deniz_Hocanın__Dersi_1.Form1.resources
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\obj\Debug\Deniz_Hocanın__Dersi_1.Properties.Resources.resources
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\obj\Debug\Deniz Hocanın  Dersi 1.csproj.GenerateResource.cache
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\obj\Debug\Deniz Hocanın  Dersi 1.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\obj\Debug\Deniz Hocanın  Dersi 1.exe
+C:\Users\Kübra\source\repos\Deniz Hocanın  Dersi 1\Deniz Hocanın  Dersi 1\obj\Debug\Deniz Hocanın  Dersi 1.pdb
